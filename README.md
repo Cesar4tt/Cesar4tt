@@ -1,8 +1,8 @@
-<h2 align="left">Olá, Eu sou César Alonso</h2>
+<h1 align="left">Olá, Eu sou César Alonso</h1>
 
 ###
 
-<h3 align="left">Sobre mim</h3>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">Tecnologias</h3>
+<h2 align="left">Tecnologias</h2>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h3 align="left">Estatísticas</h3>
+<h2 align="left">Estatísticas</h2>
 
 ###
 
