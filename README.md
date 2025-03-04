@@ -1,12 +1,16 @@
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">Olá, Eu sou César Alonso</h2>
 
 ###
 
-<p align="left">-  Estudo no SENAC - Santos           <br>- Curso: Técnico em ADS <br>- Outro idioma: Espanhol</p>
+<h3 align="left">Sobre mim</h3>
 
 ###
 
-<h2 align="left">Tecnologias</h2>
+<p align="left"> ▪ Estudo no SENAC - Santos <br> ▪ Curso: Técnico em ADS <br> ▪ Outro idioma: Espanhol</p>
+
+###
+
+<h3 align="left">Tecnologias</h3>
 
 ###
 
@@ -26,7 +30,7 @@
 
 ###
 
-<h2 align="left">Estatísticas</h2>
+<h3 align="left">Estatísticas</h3>
 
 ###
 
