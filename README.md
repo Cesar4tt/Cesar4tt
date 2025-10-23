@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left"> ▪ Técnico em ADS <br> ▪ Outro idioma: Espanhol</p>
+<p align="left"> ▪ Técnico em ADS (analise e desenvolvimento de sistemas) SENAC - Santos <br> ▪ Outro idioma: Espanhol</p>
 
 ###
 
