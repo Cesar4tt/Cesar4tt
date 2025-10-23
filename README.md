@@ -5,7 +5,7 @@
 
 ###
 
-<p align="left"> ▪ Estudo no SENAC - Santos <br> ▪ Curso: Técnico em ADS <br> ▪ Outro idioma: Espanhol</p>
+<p align="left"> ▪ Técnico em ADS <br> ▪ Outro idioma: Espanhol</p>
 
 ###
 
